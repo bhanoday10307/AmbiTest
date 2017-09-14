@@ -1,5 +1,7 @@
 # Ambi Test - NodeJS
 
+A NodeJS module to rewrite multiple files with various asyncronous tasks/calls created in series and parallel, using callbacks.
+
 Copyright (c) Bhanoday Puram, 2017
 
 ## Contact
